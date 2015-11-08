@@ -1,3 +1,2 @@
 # learngit
-learn how to use git
-learn how to use git.
+Learn how to use git.
